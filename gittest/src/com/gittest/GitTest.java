@@ -18,6 +18,9 @@ public class GitTest {
 		System.out.println("we have the another method here");
 	}
 	
+	/**
+	 * comments for this stuff
+	 */
 	public static void fromAnotherFeature(){
 		System.out.println("working on another feature");
 	}
