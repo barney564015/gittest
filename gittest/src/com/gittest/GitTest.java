@@ -6,6 +6,7 @@ public class GitTest {
 		testMethod();
 		System.out.println("This is our test");
 		anotherMethod();
+		// some more comments here
 	}
 
 	public static void testMethod(){
