@@ -2,6 +2,10 @@ package com.gittest;
 
 public class GitTest {
 
+	/**
+	 * adding mor comments here - hot fix
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		testMethod();
 		System.out.println("This is our test");
