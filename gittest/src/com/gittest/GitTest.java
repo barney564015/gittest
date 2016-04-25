@@ -35,4 +35,11 @@ public class GitTest {
 	public static void addedInMaster(){
 		
 	}
+	
+	/**
+	 * we are going to push this back to master
+	 */
+	private static void addedInBranchGoingToMaster(){
+		
+	}
 }
