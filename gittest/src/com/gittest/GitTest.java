@@ -24,4 +24,11 @@ public class GitTest {
 	public static void fromAnotherFeature(){
 		System.out.println("working on another feature");
 	}
+	
+	/**
+	 * this method was added in master
+	 */
+	public static void addedInMaster(){
+		
+	}
 }
