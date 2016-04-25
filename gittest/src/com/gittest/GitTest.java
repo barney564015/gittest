@@ -42,4 +42,11 @@ public class GitTest {
 	private static void addedInBranchGoingToMaster(){
 		
 	}
+	
+	/**
+	 * going back to branch
+	 */
+	private static void goingDownToBranch(){
+		
+	}
 }
